@@ -9,6 +9,8 @@ http://38.252.213.215:8000/play/a01w
 http://190.119.168.226:4000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="-",DSports C
 http://200.121.48.5:8000/play/ac5p/index.m3u8
+#EXTINF:-1 group-title="-",Canal 9 Bío Bío Televisión
+https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="-",CNN Chile
 http://38.7.204.226:8010/play/a2gn/index.m3u8
 #EXTINF:-1 group-title="-",CNN Español
@@ -77,3 +79,7 @@ http://181.13.252.102:8000/play/a055/index.m3u8
 http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="-",EL NUEVE HD
 http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",TELEFE HD
+http://190.123.90.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+http://190.211.172.154:8965/play/a040/index.m3u8
