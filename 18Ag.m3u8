@@ -2,69 +2,65 @@
 #EXTINF:-1 group-title="-",TELEFE HD
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
-http://38.7.204.226:8010/play/a2oj/index.m3u8
+http://216.155.91.47:8000/play/a0dr/index.m3u8
 #EXTINF:-1 group-title="-",DSports
-http://38.252.213.215:8000/play/a01w
+http://190.117.20.39:8000/play/a08d/index.m3u8
 #EXTINF:-1 group-title="-",DSports B
-http://190.119.168.226:4000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="-",DSports C
-http://200.121.48.5:8000/play/ac5p/index.m3u8
+http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="-",Canal 9 Bío Bío Televisión
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="-",CNN Chile
-http://38.7.204.226:8010/play/a2gn/index.m3u8
+http://216.155.91.47:8000/play/a0ci/index.m3u8
 #EXTINF:-1 group-title="-",CNN Español
-http://38.7.204.226:8010/play/a2pk/index.m3u8
+http://216.155.91.47:8000/play/a09z/index.m3u8
 #EXTINF:-1 group-title="-",RT en Español
 http://181.13.252.102:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="-",24 Horas
-http://38.7.204.226:8010/play/a2p8/index.m3u8
+http://216.155.91.47:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="-",Canal 13
-http://38.7.204.226:8010/play/a2nz/index.m3u8
+http://216.155.91.47:8000/play/a0io/index.m3u8
 #EXTINF:-1 group-title="-",CHV
-http://38.7.204.226:8010/play/a2ke/index.m3u8
+http://216.155.91.47:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="-",Mega
-http://38.7.204.226:8010/play/a2on/index.m3u8
+http://216.155.91.47:8000/play/a0dh/index.m3u8
 #EXTINF:-1 group-title="-",TVN
-http://38.7.204.226:8010/play/a2kd/index.m3u8
+http://216.155.91.47:8000/play/a09l/index.m3u8
 #EXTINF:-1 group-title="-",TELEFE HD
-http://45.5.151.251:8000/play/a007/index.m3u8
+http://179.51.136.23:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
-http://45.181.123.194:8000/play/cdfhd/index.m3u8
+http://190.211.172.154:8965/play/a040/index.m3u8
 #EXTINF:-1 group-title="-",TyC Sports
 http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
-http://38.7.204.226:8010/play/a2hj/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://38.7.204.226:8010/play/a2lj/index.m3u8
+http://216.155.91.47:8000/play/a0bn/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://38.7.204.226:8010/play/a2hd/index.m3u8
+http://216.155.91.47:8000/play/a0dt/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3 HD
-http://38.7.204.226:8010/play/a2n6/index.m3u8
+http://216.155.91.47:8000/play/a06i/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4 HD
-http://38.7.204.226:8010/play/a2n5/index.m3u8
+http://216.155.91.47:8000/play/a0e5/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 5 HD
-http://38.7.204.226:8010/play/a2p5/index.m3u8
+http://216.155.91.47:8000/play/a0gb/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 6 HD
-http://38.7.204.226:8010/play/a2l4/index.m3u8
+http://216.155.91.47:8000/play/a0gy/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7 HD
-http://38.7.204.226:8010/play/a2jk/index.m3u8
+http://216.155.91.47:8000/play/a0jv/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Channel  HD
-http://38.7.204.226:8010/play/a2oz/index.m3u8
+http://201.222.45.70:4005/play/a0gd/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Theater HD
-http://38.7.204.226:8010/play/a2kg/index.m3u8
+http://179.51.136.23:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="-",History Channel HD
-http://38.7.204.226:8010/play/a2nh/index.m3u8
+http://179.51.136.23:8000/play/a04m/index.m3u8
 #EXTINF:-1 group-title="-",History 2
-http://38.7.204.226:8010/play/a2m0/index.m3u8
+http://179.51.136.23:8000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="-",Nat Geo HD
-http://38.7.204.226:8010/play/a2ni/index.m3u8
+http://179.51.136.23:8000/play/a04l/index.m3u8
 #EXTINF:-1 group-title="-",Discovery World HD
-http://45.181.123.194:8000/play/a0kn/index.m3u8
+http://216.155.91.47:8000/play/a0ir/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet HD
-http://45.181.123.194:8000/play/a0mc/index.m3u8
+http://201.222.45.70:4005/play/a0j3/index.m3u8
 #EXTINF:-1 group-title="-",El Gourmet
-http://38.7.204.226:8010/play/a2la/index.m3u8
+http://216.155.91.47:8000/play/a0h5/index.m3u8
 #EXTINF:-1 group-title="-",TN
 http://181.13.252.102:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="-",C5N
@@ -80,6 +76,6 @@ http://181.13.252.102:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="-",EL NUEVE HD
 http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="-",TELEFE HD
-http://190.123.90.146:8000/play/a00p/index.m3u8
+http://143.0.67.77:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
-http://190.211.172.154:8965/play/a040/index.m3u8
+http://201.222.45.70:4005/play/a098/index.m3u8
