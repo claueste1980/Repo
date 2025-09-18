@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,Telefe HD - Nancy AR
+http://190.104.67.80:234/play/a08a/index.m3u8
+#EXTINF:-1,TNT Sport Premium - GTD2
+http://152.230.229.67:9990/play/a0kg/index.m3u8
+#EXTINF:-1,TyC Sports HD
+http://190.104.67.80:234/play/a06x/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://152.230.229.67:9990/play/a0kh/index.m3u8
+#EXTINF:-1,ESPN
+http://152.230.229.67:9990/play/a0jn/index.m3u8
+#EXTINF:-1,ESPN 2
+http://152.230.229.67:9990/play/a0kp/index.m3u8
+#EXTINF:-1,ESPN 3
+http://152.230.229.67:9990/play/a0lx/index.m3u8
+#EXTINF:-1,ESPN 4
+http://190.104.67.80:234/play/a084/index.m3u8
+#EXTINF:-1,ESPN 5
+http://152.230.229.67:9990/play/a0jl/index.m3u8
+#EXTINF:-1,ESPN 6
+http://152.230.229.67:9990/play/a0k7/index.m3u8
+#EXTINF:-1,ESPN 7
+http://152.230.229.67:9990/play/a0k6/index.m3u8
+#EXTINF:-1,DSports
+http://138.204.12.14:40000/play/a0at/index.m3u8
+#EXTINF:-1,DSports 2
+http://138.204.12.14:40000/play/a0l5/index.m3u8
+#EXTINF:-1,DSports+
+http://138.204.12.14:40000/play/a0l7/index.m3u8
+#EXTINF:-1,Canal 9 Regional
+http://190.102.246.93:9005/play/a030
+#EXTINF:-1,TVN - GTD2
+http://152.230.229.67:9990/play/a0kc/index.m3u8
+#EXTINF:-1,CHV
+http://152.230.229.67:9990/play/a0ke/index.m3u8
+#EXTINF:-1,Canal 13
+http://152.230.229.67:9990/play/a0kf/index.m3u8
+#EXTINF:-1,Mega HD
+http://152.230.229.67:9990/play/a0kd/index.m3u8
+#EXTINF:-1,CNN Chile
+http://152.230.229.67:9990/play/a0l2/index.m3u8
+#EXTINF:-1,CNN en Español
+http://152.230.229.67:9990/play/a0ka/index.m3u8
+#EXTINF:-1,24 Horas
+http://152.230.229.67:9990/play/a0kn/index.m3u8
+#EXTINF:-1,NTV
+http://152.230.229.67:9990/play/a0kt/index.m3u8
+#EXTINF:-1,TV+ HD
+http://190.102.246.93:9005/play/a013
+#EXTINF:-1,La Red
+http://152.230.229.67:9990/play/a0kb/index.m3u8
+#EXTINF:-1,C5N - Nancy AR
+http://190.104.67.80:234/play/a05v/index.m3u8
+#EXTINF:-1,TN HD
+http://190.104.67.80:234/play/a097/index.m3u8
+#EXTINF:-1,Cronica
+http://190.104.67.80:234/play/a05w/index.m3u8
+#EXTINF:-1,26TV
+http://190.104.67.80:234/play/a05x/index.m3u8
+#EXTINF:-1,A24
+http://190.104.67.80:234/play/a05u/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://152.230.229.67:9990/play/a0kv/index.m3u8
+#EXTINF:-1,Discovery HD
+http://152.230.229.67:9990/play/a0jh/index.m3u8
+#EXTINF:-1,The History Channel HD
+http://152.230.229.67:9990/play/a0kw/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://152.230.229.67:9990/play/a0ji/index.m3u8
+#EXTINF:-1,Love Nature
+http://209.45.101.130:8000/play/a01b/index.m3u8
+#EXTINF:-1,Discovery Theater
+http://190.104.67.80:234/play/a074/index.m3u8
+#EXTINF:-1,History 2
+http://190.104.67.80:234/play/a06n/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.104.67.80:234/play/a076/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://190.104.67.80:234/play/a0o1/index.m3u8
+#EXTINF:-1,Dreamworks Latam
+http://181.189.241.114:5050/play/a05i
+#EXTINF:-1,Antena 3
+http://64.76.73.50:8990/play/a0fq/index.m3u8
+#EXTINF:-1,Telefe HD
+http://64.76.73.50:8990/play/a07z/index.m3u8
+#EXTINF:-1,TNT Sport Premium - Fiberlink PE
+http://64.76.73.50:8990/play/a06n/index.m3u8
