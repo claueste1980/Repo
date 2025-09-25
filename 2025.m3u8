@@ -62,7 +62,7 @@ http://190.104.67.80:234/play/a05u/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://152.230.229.67:9990/play/a0kv/index.m3u8
 #EXTINF:-1,Discovery HD
-http://152.230.229.67:9990/play/a0jh/index.m3u8
+http://45.181.122.46:8090/play/a014
 #EXTINF:-1,The History Channel HD
 http://152.230.229.67:9990/play/a0kw/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -78,7 +78,7 @@ http://190.104.67.80:234/play/a076/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://190.104.67.80:234/play/a0o1/index.m3u8
 #EXTINF:-1,Dreamworks Latam
-http://181.189.241.114:5050/play/a05i
+http://179.1.149.254:7000/play/a078
 #EXTINF:-1,Antena 3
 http://64.76.73.50:8990/play/a0fq/index.m3u8
 #EXTINF:-1,Telefe HD
