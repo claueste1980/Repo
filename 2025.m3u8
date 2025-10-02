@@ -6,21 +6,21 @@ http://152.230.229.67:9990/play/a0kg/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://190.104.67.80:234/play/a06x/index.m3u8
 #EXTINF:-1,ESPN Premium HD
-http://152.230.229.67:9990/play/a0kh/index.m3u8
+http://45.181.122.46:8090/play/a015
 #EXTINF:-1,ESPN
-http://152.230.229.67:9990/play/a0jn/index.m3u8
+http://45.181.122.46:8090/play/a01m
 #EXTINF:-1,ESPN 2
-http://152.230.229.67:9990/play/a0kp/index.m3u8
+http://45.181.122.46:8090/play/a01v
 #EXTINF:-1,ESPN 3
-http://152.230.229.67:9990/play/a0lx/index.m3u8
+http://45.181.122.46:8090/play/a01t
 #EXTINF:-1,ESPN 4
-http://190.104.67.80:234/play/a084/index.m3u8
+http://207.248.3.81:8081/play/a0ns
 #EXTINF:-1,ESPN 5
-http://152.230.229.67:9990/play/a0jl/index.m3u8
+http://45.181.122.46:8090/play/a01i
 #EXTINF:-1,ESPN 6
-http://152.230.229.67:9990/play/a0k7/index.m3u8
+http://45.181.122.46:8090/play/a01u
 #EXTINF:-1,ESPN 7
-http://152.230.229.67:9990/play/a0k6/index.m3u8
+http://138.36.253.13:8008/play/a01r/index.m3u8
 #EXTINF:-1,DSports
 http://138.204.12.14:40000/play/a0at/index.m3u8
 #EXTINF:-1,DSports 2
