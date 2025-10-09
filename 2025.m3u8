@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,Telefe HD Nancy AR
-http://190.104.67.80:234/play/a08a/index.m3u8
+#EXTINF:-1,Telefe HD
+http://181.209.95.27:8000/play/a06c/index.m3u8
 #EXTINF:-1,TNT Sport Premium GTD2
 http://152.230.229.67:9990/play/a0kg/index.m3u8
 #EXTINF:-1,TyC Sports HD
-http://190.104.67.80:234/play/a06x/index.m3u8
+http://181.209.95.27:8000/play/a02s/index.m3u8
 #EXTINF:-1,ESPN Premium HD
 http://45.181.122.46:8090/play/a015
 #EXTINF:-1,ESPN
@@ -49,16 +49,20 @@ http://152.230.229.67:9990/play/a0kt/index.m3u8
 http://190.102.246.93:9005/play/a013
 #EXTINF:-1,La Red
 http://152.230.229.67:9990/play/a0kb/index.m3u8
-#EXTINF:-1,C5N Nancy AR
-http://190.104.67.80:234/play/a05v/index.m3u8
+#EXTINF:-1,C5N
+http://181.209.95.27:8000/play/a01p/index.m3u8
 #EXTINF:-1,TN HD
-http://190.104.67.80:234/play/a097/index.m3u8
+http://181.209.95.27:8000/play/a0a6/index.m3u8
 #EXTINF:-1,Cronica
-http://190.104.67.80:234/play/a05w/index.m3u8
+http://181.209.95.27:8000/play/a01q/index.m3u8
 #EXTINF:-1,26TV
-http://190.104.67.80:234/play/a05x/index.m3u8
+http://181.209.95.27:8000/play/a01r/index.m3u8
 #EXTINF:-1,A24
-http://190.104.67.80:234/play/a05u/index.m3u8
+http://181.209.95.27:8000/play/a01o/index.m3u8
+#EXTINF:-1,La Nacion TV
+http://181.209.95.27:8000/play/a01s/index.m3u8
+#EXTINF:-1, TV Publica
+http://181.209.95.27:8000/play/a0a8/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://152.230.229.67:9990/play/a0kv/index.m3u8
 #EXTINF:-1,Discovery HD
@@ -70,18 +74,38 @@ http://152.230.229.67:9990/play/a0ji/index.m3u8
 #EXTINF:-1,Love Nature
 http://209.45.101.130:8000/play/a01b/index.m3u8
 #EXTINF:-1,Discovery Theater
-http://190.104.67.80:234/play/a074/index.m3u8
+http://181.209.95.27:8000/play/a02z/index.m3u8
 #EXTINF:-1,History 2
-http://190.104.67.80:234/play/a06n/index.m3u8
+http://45.181.122.46:8090/play/a031
 #EXTINF:-1,Discovery World HD
-http://190.104.67.80:234/play/a076/index.m3u8
+http://181.209.95.27:8000/play/a031/index.m3u8
+#EXTINF:-1,Discovery Science
+http://181.209.95.27:8000/play/a02k/index.m3u8
 #EXTINF:-1,El Gourmet HD
-http://190.104.67.80:234/play/a0o1/index.m3u8
+http://181.209.95.27:8000/play/a06w/index.m3u8
 #EXTINF:-1,Dreamworks Latam
-http://179.1.149.254:7000/play/a078
+http://181.78.85.250:8000/play/a04m/index.m3u8
 #EXTINF:-1,Antena 3
 http://64.76.73.50:8990/play/a0fq/index.m3u8
 #EXTINF:-1,Telefe HD
 http://181.13.252.102:8000/play/a06c/index.m3u8
 #EXTINF:-1,TNT Sport Premium Fiberlink PE
 http://64.76.73.50:8990/play/a06n/index.m3u8
+#EXTINF:-1,America TV
+http://200.219.40.1:8000/play/a055/index.m3u8
+#EXTINF:-1,El Trece
+http://200.219.40.1:8000/play/a0bg/index.m3u8
+#EXTINF:-1,El Nueve
+http://200.219.40.1:8000/play/a0fe/index.m3u8
+#EXTINF:-1,HBO
+http://152.230.229.67:9990/play/a0lh/index.m3u8
+#EXTINF:-1,HBO 2
+http://152.230.229.67:9990/play/a0ki/index.m3u8
+#EXTINF:-1,HBO Family
+http://152.230.229.67:9990/play/a0kl/index.m3u8
+#EXTINF:-1,HBO Plus
+http://152.230.229.67:9990/play/a0kj/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://190.211.1.203:8450/play/a0f8
+#EXTINF:-1,HBO Pop
+http://190.211.1.203:8450/play/a0ez
