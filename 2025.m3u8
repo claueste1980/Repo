@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TNT Sport Premium GTD2
-http://152.230.229.67:9990/play/a0kg/index.m3u8
-#EXTINF:-1,TNT Sport Premium Redcentral
-http://45.181.122.46:8090/play/a00i
 #EXTINF:-1,TNT Sport Premium Zgh
 http://38.7.195.44:8000/play/a0e7
-#EXTINF:-1,TNT Sport Premium Mi internet
-http://170.233.192.234:8112/play/233
-#EXTINF:-1,TNT Sport Premium Vemos mas
-http://45.160.12.200:8008/play/233/index.m3u8
 #EXTINF:-1,TyC Sports HD
 http://181.209.95.27:8000/play/a02s/index.m3u8
 #EXTINF:-1,ESPN Premium HD
@@ -97,8 +89,6 @@ http://181.78.85.250:8000/play/a04m/index.m3u8
 http://64.76.73.50:8990/play/a0fq/index.m3u8
 #EXTINF:-1,Telefe HD
 http://181.13.252.102:8000/play/a06c/index.m3u8
-#EXTINF:-1,TNT Sport Premium Fiberlink PE
-http://64.76.73.50:8990/play/a06n/index.m3u8
 #EXTINF:-1,America TV
 http://200.219.40.1:8000/play/a055/index.m3u8
 #EXTINF:-1,El Trece
@@ -119,3 +109,5 @@ http://190.211.1.203:8450/play/a0f8
 http://190.211.1.203:8450/play/a0ez
 #EXTINF:-1,MTV 80s
 http://200.57.28.139:8000/play/a01y/index.m3u8
+#EXTINF:-1,TNT Sport Premium Mi internet
+http://170.233.192.234:8112/play/233
