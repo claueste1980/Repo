@@ -27,26 +27,26 @@ http://138.204.12.14:40000/play/a0l5/index.m3u8
 http://138.204.12.14:40000/play/a0l7/index.m3u8
 #EXTINF:-1,Canal 9 Regional
 http://190.102.246.93:9005/play/a030
-#EXTINF:-1,TVN GTD2
-http://152.230.229.67:9990/play/a0kc/index.m3u8
+#EXTINF:-1,TVN Vemos+
+http://45.160.12.200:8008/play/064/index.m3u8
 #EXTINF:-1,CHV
-http://152.230.229.67:9990/play/a0ke/index.m3u8
+http://170.233.192.234:8112/play/066
 #EXTINF:-1,Canal 13
-http://152.230.229.67:9990/play/a0kf/index.m3u8
+http://170.233.192.234:8112/play/067
 #EXTINF:-1,Mega HD
-http://152.230.229.67:9990/play/a0kd/index.m3u8
+http://45.160.12.200:8008/play/065/index.m3u8
 #EXTINF:-1,CNN Chile
-http://152.230.229.67:9990/play/a0l2/index.m3u8
+http://190.102.246.93:9005/play/a01y
 #EXTINF:-1,CNN en Español
-http://152.230.229.67:9990/play/a0ka/index.m3u8
+http://38.252.213.215:8000/play/a01b
 #EXTINF:-1,24 Horas
-http://152.230.229.67:9990/play/a0kn/index.m3u8
+http://45.160.12.200:8008/play/052/index.m3u8
 #EXTINF:-1,NTV
 http://152.230.229.67:9990/play/a0kt/index.m3u8
 #EXTINF:-1,TV+ HD
-http://190.102.246.93:9005/play/a013
+http://45.160.12.200:8008/play/063/index.m3u8
 #EXTINF:-1,La Red
-http://152.230.229.67:9990/play/a0kb/index.m3u8
+http://45.160.12.200:8008/play/062/index.m3u8
 #EXTINF:-1,C5N
 http://181.209.95.27:8000/play/a01p/index.m3u8
 #EXTINF:-1,TN HD
@@ -109,5 +109,7 @@ http://190.211.1.203:8450/play/a0f8
 http://190.211.1.203:8450/play/a0ez
 #EXTINF:-1,MTV 80s
 http://200.57.28.139:8000/play/a01y/index.m3u8
+#EXTINF:-1,VClassic
+http://64.76.181.60:50333/play/a00s/index.m3u8
 #EXTINF:-1,TNT Sport Premium Mi internet
 http://170.233.192.234:8112/play/233
