@@ -84,11 +84,9 @@ http://181.209.95.27:8000/play/a02k/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://181.209.95.27:8000/play/a06w/index.m3u8
 #EXTINF:-1,Dreamworks Latam
-http://181.78.85.250:8000/play/a04m/index.m3u8
+http://181.78.106.127:9000/play/ca054/index.m3u8
 #EXTINF:-1,Antena 3
-http://64.76.73.50:8990/play/a0fq/index.m3u8
-#EXTINF:-1,Telefe HD
-http://181.13.252.102:8000/play/a06c/index.m3u8
+http://138.117.110.151:8000/play/a0hg/index.m3u8
 #EXTINF:-1,America TV
 http://200.219.40.1:8000/play/a055/index.m3u8
 #EXTINF:-1,El Trece
