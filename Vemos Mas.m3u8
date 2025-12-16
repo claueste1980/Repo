@@ -6,7 +6,7 @@ http://45.160.12.200:8008/play/052/index.m3u8
 #EXTINF:-1 group-title="-",CNN Chile
 http://45.160.12.200:8008/play/054/index.m3u8
 #EXTINF:-1 group-title="-",CNN Español
-
+http://201.230.121.186:8000/play/a0nn/index.m3u8
 #EXTINF:-1 group-title="-",France 24
 http://45.160.12.200:8008/play/028/index.m3u8
 #EXTINF:-1 group-title="-",RT en Español
@@ -50,7 +50,7 @@ http://45.160.12.200:8008/play/178/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
 http://45.160.12.200:8008/play/233/index.m3u8
 #EXTINF:-1 group-title="-",TyC Sports HD
-
+http://201.230.121.186:8000/play/a0fk/index.m3u8
 #EXTINF:-1 group-title="-",ESPN PREMIUM
 http://45.160.12.200:8008/play/209/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
@@ -61,6 +61,8 @@ http://45.160.12.200:8008/play/214/index.m3u8
 http://45.160.12.200:8008/play/216/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 4HD
 http://45.160.12.200:8008/play/218/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://201.230.121.186:8000/play/a0jh/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 6HD
 http://45.160.12.200:8008/play/211/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7HD
@@ -68,25 +70,25 @@ http://45.160.12.200:8008/play/210/index.m3u8
 #EXTINF:-1 group-title="-",TV Publica HD
 http://190.95.60.228:8500/play/a00z
 #EXTINF:-1 group-title="-",Cronica
-
+http://191.97.111.38:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="-",TN HD
-
+http://191.97.111.38:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="-",America TV HD
 
 #EXTINF:-1 group-title="-",El Trece
-
+http://191.97.111.38:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="-",El nueve HD
-
+http://191.97.111.38:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="-",26TV
-
+http://191.97.111.38:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="-",A24
-
+http://191.97.111.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="-",C5N
 http://181.13.112.203:8100/play/a01p/index.m3u8
 #EXTINF:-1 group-title="-",Telefe HD
 http://181.13.112.203:8100/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",Telefe HD
-http://190.95.60.228:8500/play/a042
+#EXTINF:-1 group-title="-",La Nacion TV
+http://191.97.111.38:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="-",AXN HD
 http://45.160.12.200:8008/play/087/index.m3u8
 #EXTINF:-1 group-title="-",FX HD
@@ -144,7 +146,7 @@ http://45.160.12.200:8008/play/a06r/index.m3u8
 #EXTINF:-1 group-title="-",Golden HD
 http://45.160.12.200:8008/play/113/index.m3u8
 #EXTINF:-1 group-title="-",DHE HD
-
+http://201.230.121.186:8000/play/a0kk/index.m3u8
 #EXTINF:-1 group-title="-",Cinecanal HD
 http://45.160.12.200:8008/play/107/index.m3u8
 #EXTINF:-1 group-title="-",Cinemax
@@ -177,3 +179,4 @@ http://45.160.12.200:8008/play/138/index.m3u8
 http://45.160.12.200:8008/play/152/index.m3u8
 #EXTINF:-1 group-title="-",Animotion
 http://45.160.12.200:8008/play/a06w/index.m3u8
+
