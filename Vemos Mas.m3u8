@@ -128,15 +128,15 @@ http://45.160.12.200:8008/play/121/index.m3u8
 #EXTINF:-1 group-title="-",MX Prime HD
 http://45.160.12.200:8008/play/122/index.m3u8
 #EXTINF:-1 group-title="-",CINE PREMIUM
-http://190.102.246.93:9005/play/a036
+
 #EXTINF:-1 group-title="-",CINE FAMILIAR
-http://190.102.246.93:9005/play/a034
+
 #EXTINF:-1 group-title="-",CINE HISPANO
-http://190.102.246.93:9005/play/a035
+
 #EXTINF:-1 group-title="-",Cine.AR
 http://190.95.60.228:8500/play/a01y
 #EXTINF:-1 group-title="-",Rewind
-http://45.160.12.200:8008/play/a06v/index.m3u8
+
 #EXTINF:-1 group-title="-",FMH Family
 http://45.160.12.200:8008/play/a06s/index.m3u8
 #EXTINF:-1 group-title="-",FMH Movies
@@ -144,15 +144,13 @@ http://45.160.12.200:8008/play/a06r/index.m3u8
 #EXTINF:-1 group-title="-",Golden HD
 http://45.160.12.200:8008/play/113/index.m3u8
 #EXTINF:-1 group-title="-",DHE HD
-http://45.160.12.200:8008/play/179/index.m3u8
+
 #EXTINF:-1 group-title="-",Cinecanal HD
 http://45.160.12.200:8008/play/107/index.m3u8
 #EXTINF:-1 group-title="-",Cinemax
 http://45.160.12.200:8008/play/112/index.m3u8
 #EXTINF:-1 group-title="-",Space HD
 http://45.160.12.200:8008/play/119/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
-http://45.4.169.50:8000/play/a06t
 #EXTINF:-1 group-title="-",Dos Kids
 http://45.160.12.200:8008/play/002/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Kids HD
@@ -169,7 +167,7 @@ http://45.160.12.200:8008/play/011/index.m3u8
 http://45.160.12.200:8008/play/014/index.m3u8
 #EXTINF:-1 group-title="-",FMH KIDS
 http://45.160.12.200:8008/play/015/index.m3u8
-#EXTINF:-1 group-title="-",Old Music
+#EXTINF:-1 group-title="-",Old
 http://45.160.12.200:8008/play/123/index.m3u8
 #EXTINF:-1 group-title="-",Old Music HD
 http://45.160.12.200:8008/play/137/index.m3u8
@@ -179,8 +177,3 @@ http://45.160.12.200:8008/play/138/index.m3u8
 http://45.160.12.200:8008/play/152/index.m3u8
 #EXTINF:-1 group-title="-",Animotion
 http://45.160.12.200:8008/play/a06w/index.m3u8
-#EXTINF:-1 group-title="-",Telefe HD
-http://143.0.67.77:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
-
-http://38.250.127.17:9800/play/a06g/index.m3u8
