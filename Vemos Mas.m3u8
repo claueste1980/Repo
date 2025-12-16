@@ -36,7 +36,7 @@ http://45.160.12.200:8008/play/027/index.m3u8
 #EXTINF:-1 group-title="-",History Channel HD
 http://45.160.12.200:8008/play/032/index.m3u8
 #EXTINF:-1 group-title="-",DISCOVERY WORD
-
+http://200.80.230.125:8000/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Theater HD
 http://45.160.12.200:8008/play/FG001/index.m3u8
 #EXTINF:-1 group-title="-",History 2
@@ -46,7 +46,7 @@ http://45.160.12.200:8008/play/177/index.m3u8
 #EXTINF:-1 group-title="-",Mundo & Sabor HD
 http://45.160.12.200:8008/play/178/index.m3u8
 #EXTINF:-1 group-title="-",Food Network HD
-
+http://190.102.123.28:8097/play/a0m3/index.m3u8
 #EXTINF:-1 group-title="-",TNT Sports Premiun HD
 http://45.160.12.200:8008/play/233/index.m3u8
 #EXTINF:-1 group-title="-",TyC Sports HD
@@ -74,7 +74,7 @@ http://191.97.111.38:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="-",TN HD
 http://191.97.111.38:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="-",America TV HD
-
+http://200.80.230.125:8000/play/a0a7/index.m3u8
 #EXTINF:-1 group-title="-",El Trece
 http://191.97.111.38:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="-",El nueve HD
@@ -130,11 +130,11 @@ http://45.160.12.200:8008/play/121/index.m3u8
 #EXTINF:-1 group-title="-",MX Prime HD
 http://45.160.12.200:8008/play/122/index.m3u8
 #EXTINF:-1 group-title="-",CINE PREMIUM
-
+http://38.51.234.11:8888/play/a06a/index.m3u8
 #EXTINF:-1 group-title="-",CINE FAMILIAR
-
+http://38.51.234.11:8888/play/a06b/index.m3u8
 #EXTINF:-1 group-title="-",CINE HISPANO
-
+http://38.51.234.11:8888/play/a06c/index.m3u8
 #EXTINF:-1 group-title="-",Cine.AR
 http://190.95.60.228:8500/play/a01y
 #EXTINF:-1 group-title="-",Rewind
@@ -179,4 +179,11 @@ http://45.160.12.200:8008/play/138/index.m3u8
 http://45.160.12.200:8008/play/152/index.m3u8
 #EXTINF:-1 group-title="-",Animotion
 http://45.160.12.200:8008/play/a06w/index.m3u8
-
+#EXTINF:-1 group-title="-",Lifetime
+http://200.80.230.125:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports
+http://200.80.230.125:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 2
+http://200.80.230.125:8000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3
+http://200.80.230.125:8000/play/a02t/index.m3u8
